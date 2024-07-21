@@ -1,8 +1,11 @@
 body {
-  background: linear-gradient(to bottom, black, red, green);
+  background: rgb(164, 164, 164);
+}
+.centered-container {
+  margin: 0 auto;
+  background: linear-gradient(to bottom, black, rgb(97, 40, 40), green);
   color: white;
 }
-
 .hero-section {
   padding: 60px 0;
 }
