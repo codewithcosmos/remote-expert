@@ -3,11 +3,6 @@ body {
   color: white;
 }
 
-.header, .footer {
-  background-color: black;
-  padding: 20px 0;
-}
-
 .hero-section {
   padding: 60px 0;
 }
@@ -22,6 +17,7 @@ body {
   color: black;
   padding: 20px;
   border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 20, 25, 0.3);
 }
 
 .divider {
@@ -34,7 +30,8 @@ body {
   color: white;
   padding: 20px;
   margin: 20px 0;
-  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 200, 150, 0.3);
+  border-radius: 15px;
 }
 
 .about-card-img {
@@ -43,4 +40,9 @@ body {
 
 .about-card-text {
   width: 50%;
+}
+
+.footer {
+  background-color: black;
+  padding: 20px 0;
 }
