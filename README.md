@@ -23,8 +23,10 @@ Automation and Remote Expert specializes in remote sales and services, offering 
 - **Remote Control for Machinery**: Efficient and precise remote control systems for various machinery.
 - **Expert Team**: A dedicated team of experts specializing in remote control technologies.
 - **Custom Solutions**: Tailored remote control solutions to meet specific needs.
+# Our Image
 
 ## Getting Started
+![remote](https://github.com/user-attachments/assets/95165cd8-4187-4b23-b77a-7075bdff4db0)
 
 To get started with Automation and Remote Expert, follow these steps:
 
