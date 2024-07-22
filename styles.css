@@ -1,7 +1,5 @@
 body {
   background: rgb(164, 164, 164);
-}
-.centered-container {
   margin: 0 auto;
   background: linear-gradient(to bottom, black, rgb(97, 40, 40), green);
   color: white;
@@ -47,5 +45,15 @@ body {
 
 .footer {
   background-color: black;
-  padding: 20px 0;
+}
+@media (max-width: 769px) {
+  /* For screens wider than 768px */
+  .about-card-img {
+    width: 100%; /* Adjust image width */
+  }
+  
+  .about-card-text {
+    width: 100%; /* Adjust text width */
+    color: aqua;
+  }
 }
